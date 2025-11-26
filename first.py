@@ -1,2 +1,2 @@
-VVCE
-IEEE
+print("VVCE")
+print("IEEE")
